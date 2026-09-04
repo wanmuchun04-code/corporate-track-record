@@ -52,10 +52,12 @@ sources is worse than no entry.
 ## Corrections
 ```
 
-## Red-list cases (future)
+## Red-list cases
 
-Once the red list opens, same schema; `Board:` becomes ⚪ Red with the
-documented positive record and its sources. Watch this space.
+Same schema; `Board:` is ⚪ Red with the documented positive record and
+its sources — **and** the documented controversies (complete-narrative
+rule, METHODOLOGY §4). First live case: Pang Dong Lai (胖东来), added
+2026-09-04.
 
 ## Correcting an error
 
@@ -131,9 +133,10 @@ are recorded as "company disputes the account without providing documents".
 ## 更正记录
 ```
 
-## 红榜(未来)
+## 红榜
 
-红榜开放后同一套结构,`榜单:` 改为 ⚪ 红榜 + 有信源的正面记录。
+同一套结构,`榜单:` 为 ⚪ 红榜,记录有信源的正面做法——**同时记录已见报道的
+争议面**(完整叙事规则,方法论 §4)。首个案例:胖东来(2026-09-04 上线)。
 
 ## 纠错
 

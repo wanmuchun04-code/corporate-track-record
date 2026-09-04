@@ -13,11 +13,13 @@ with emphasis on:
    (investigations, audits, contract measures, statements), and
 3. what a worker or consumer should reasonably watch out for.
 
-**Current state (2026-09):** the repository only accepts **blacklist**
-entries (verified labor-conduct controversies). A **red list** (exemplary
-employers) is planned; the directory and file schema below already support
-it, so no future restructuring is needed. Folders are named `cases/`, not
-`blacklist/`, for this reason.
+**Current state (2026-09):** the repository runs **two boards** — a
+**black list** (verified labor-conduct controversies) and a **red list**
+(exemplary employers with documented practice). Both share one schema and
+one rule set, including the complete-narrative rule: red entries must
+also record documented controversies, so a record never becomes
+one-sided advertising. Folders are named `cases/`, not `blacklist/`,
+deliberately.
 
 ## 2. What qualifies for inclusion
 
